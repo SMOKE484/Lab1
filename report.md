@@ -1,0 +1,1 @@
+In this assignment I assessed my ability to work with Git and GitHub.I created a repository, made multiple commits, manage branches, and deployed an HTML file according to the specifications provided
